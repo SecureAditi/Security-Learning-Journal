@@ -50,3 +50,12 @@ catching up my journal - day 3 to 7
 - **Non-Coder Insight**: I realized that as a documentation contributor, I can help by ensuring projects have a clear "Privacy Policy" section so users know how their data is handled.
 - **What I learned**: Phishing is a type of "social engineering" where attackers trick people into giving away sensitive info (like passwords or JEE portal logins) by pretending to be a trusted source.
 - **My Reflection**: Security isn't just about high-tech firewalls; it’s also about staying alert and double-checking links before we click. This is a huge part of the "Security Awareness" I want to promote during GSSoC.
+
+---
+
+# -Day-8-Protecting-Secrets-Data-Encryption-
+**Concept**: Learned about **Cryptographic Failures** (OWASP #2).- **My Perspective**: As a non-coder, I realized that I can contribute by reviewing "Privacy Policy" docs to ensure they clearly explain to users how their data is being "scrambled" and kept safe. - **Progress**: Staying consistent with my learning streak 
+### Day 8: Data Privacy & Encryption (OWASP #2)
+- **What I learned**: Cryptographic Failures (OWASP #2) happen when sensitive data like passwords or health records aren't "scrambled" (encrypted) properly. 
+- **The Non-Coder Fix**: I can help projects by ensuring their documentation clearly states how user data is stored and what privacy measures are in place. 
+
