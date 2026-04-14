@@ -67,3 +67,15 @@ dangerous inputs
 - **What I learned**: Injection happens when an attacker sends "hidden commands" through a simple input box (like a search bar or login form) to trick the system into giving away data.
 - **The Non-Coder Perspective**: I can help by documenting "Input Validation" rules—making sure the project's guides clearly explain what kind of data users should (and shouldn't) be able to type into the system.
 - **Goal**: Learning how to spot these "input gaps" in project descriptions.
+
+---
+
+### Day 10: Insecure Design (OWASP #4)
+- **Concept**: Some security issues aren't "bugs" in the code; they are just bad plans. Like building a house with no locks on the windows.
+- **My Thought**: As a non-coder, I can help by suggesting better "workflows" (like asking for a password twice) to make sure the design is safe for everyone
+
+---
+
+### Day 11: Security Misconfiguration (OWASP #5)
+- **Concept**: This happens when a system is left with "default" settings (like a password of 'admin123'). It's like leaving the front door wide open.
+- **My Role**: I can help projects by creating "Security Checklists" for their documentation to ensure new users change their default settings immediately.
