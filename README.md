@@ -53,7 +53,7 @@ catching up my journal - day 3 to 7
 
 ---
 
-# -Day-8-Protecting-Secrets-Data-Encryption-
+# security-learning-journal-day-8
 **Concept**: Learned about **Cryptographic Failures** (OWASP #2).- **My Perspective**: As a non-coder, I realized that I can contribute by reviewing "Privacy Policy" docs to ensure they clearly explain to users how their data is being "scrambled" and kept safe. - **Progress**: Staying consistent with my learning streak 
 ### Day 8: Data Privacy & Encryption (OWASP #2)
 - **What I learned**: Cryptographic Failures (OWASP #2) happen when sensitive data like passwords or health records aren't "scrambled" (encrypted) properly. 
