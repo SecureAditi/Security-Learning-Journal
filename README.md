@@ -59,3 +59,11 @@ catching up my journal - day 3 to 7
 - **What I learned**: Cryptographic Failures (OWASP #2) happen when sensitive data like passwords or health records aren't "scrambled" (encrypted) properly. 
 - **The Non-Coder Fix**: I can help projects by ensuring their documentation clearly states how user data is stored and what privacy measures are in place. 
 
+---
+
+# security-learning-journal-day-9
+dangerous inputs
+### Day 9: Understanding Injection Risks (OWASP #3)
+- **What I learned**: Injection happens when an attacker sends "hidden commands" through a simple input box (like a search bar or login form) to trick the system into giving away data.
+- **The Non-Coder Perspective**: I can help by documenting "Input Validation" rules—making sure the project's guides clearly explain what kind of data users should (and shouldn't) be able to type into the system.
+- **Goal**: Learning how to spot these "input gaps" in project descriptions.
