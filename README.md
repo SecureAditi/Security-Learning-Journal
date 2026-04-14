@@ -69,13 +69,13 @@ dangerous inputs
 - **Goal**: Learning how to spot these "input gaps" in project descriptions.
 
 ---
-
+# security-learning-journal-day-10
 ### Day 10: Insecure Design (OWASP #4)
 - **Concept**: Some security issues aren't "bugs" in the code; they are just bad plans. Like building a house with no locks on the windows.
 - **My Thought**: As a non-coder, I can help by suggesting better "workflows" (like asking for a password twice) to make sure the design is safe for everyone
 
 ---
-
+# security-learning-journal-day-11
 ### Day 11: Security Misconfiguration (OWASP #5)
 - **Concept**: This happens when a system is left with "default" settings (like a password of 'admin123'). It's like leaving the front door wide open.
 - **My Role**: I can help projects by creating "Security Checklists" for their documentation to ensure new users change their default settings immediately.
