@@ -79,3 +79,10 @@ dangerous inputs
 ### Day 11: Security Misconfiguration (OWASP #5)
 - **Concept**: This happens when a system is left with "default" settings (like a password of 'admin123'). It's like leaving the front door wide open.
 - **My Role**: I can help projects by creating "Security Checklists" for their documentation to ensure new users change their default settings immediately.
+
+---
+# security-learning-journal-day-12
+### Day 12: The "Expired Ingredient" Problem (OWASP #6)
+- **Concept**: Vulnerable and Outdated Components happen when a project uses old libraries or "packages" that have known security holes. It’s like cooking with expired ingredients—no matter how good the chef is, the food isn't safe.
+- **My Role**: As a non-coder, I can help by checking a project's "Dependencies" list and cross-referencing them with security databases to see if they need an update.
+- **Perspective**: In open source, keeping everything updated is a massive task. Documentation that tracks these versions is the first line of defense.
