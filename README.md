@@ -86,3 +86,11 @@ dangerous inputs
 - **Concept**: Vulnerable and Outdated Components happen when a project uses old libraries or "packages" that have known security holes. It’s like cooking with expired ingredients—no matter how good the chef is, the food isn't safe.
 - **My Role**: As a non-coder, I can help by checking a project's "Dependencies" list and cross-referencing them with security databases to see if they need an update.
 - **Perspective**: In open source, keeping everything updated is a massive task. Documentation that tracks these versions is the first line of defense.
+
+---
+# security-learning-journal-day-13
+### Day 13: Identification and Authentication Failures (OWASP #7)
+- **Concept**: This happens when a system doesn't properly confirm who a user is. It’s like a security guard who recognizes your face but forgets to check your ID card. 
+- **The Risk**: Attackers can use "Credential Stuffing" (trying thousands of stolen passwords) to break in if the system doesn't have protections like Multi-Factor Authentication (MFA).
+- **My Role**: I can help by documenting the importance of "Password Complexity" and "Lockout Policies" in project setup guides.
+- **Reflection**: Even a Tier 3 location can't stop me from learning global security standards. One day at a time! 🛡️
