@@ -94,3 +94,10 @@ dangerous inputs
 - **The Risk**: Attackers can use "Credential Stuffing" (trying thousands of stolen passwords) to break in if the system doesn't have protections like Multi-Factor Authentication (MFA).
 - **My Role**: I can help by documenting the importance of "Password Complexity" and "Lockout Policies" in project setup guides.
 - **Reflection**: Even a Tier 3 location can't stop me from learning global security standards. One day at a time! 🛡️
+
+---
+# security-learning-journal-day-14
+### Day 14: Software and Data Integrity Failures (OWASP #8)
+- **Concept**: This happens when code or data is updated without verifying if it's from a trusted source. It’s like accepting a package without checking the seal.
+- **C++ Connection**: As I plan to learn C++ in college, I’m realizing how important "Memory Safety" and "Integrity" are. Insecure updates can lead to huge vulnerabilities.
+- **My Future Goal**: I want to learn how to write secure C++ code that protects the integrity of the whole system.
