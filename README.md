@@ -101,3 +101,11 @@ dangerous inputs
 - **Concept**: This happens when code or data is updated without verifying if it's from a trusted source. It’s like accepting a package without checking the seal.
 - **C++ Connection**: As I plan to learn C++ in college, I’m realizing how important "Memory Safety" and "Integrity" are. Insecure updates can lead to huge vulnerabilities.
 - **My Future Goal**: I want to learn how to write secure C++ code that protects the integrity of the whole system.
+
+---
+# security-learning-journal-day-15
+### Day 15: Major Milestone & Security Logging (OWASP #9)
+- **BIG NEWS**: I officially got accepted into **GSSoC 2026** as a Contributor! 🚀 This proves that even as a non-coder, there is a place for me in the Open Source community.
+- **Topic**: Security Logging and Monitoring Failures. This is about keeping a "digital diary" of who does what in an app. If you don't log events, you won't know when an attacker breaks in.
+- **My Role**: I can help projects by ensuring their documentation explains how to check logs and set up alerts for suspicious activity.
+- **Focus**: Celebrating this win while staying 100% focused on my WBJEE preparation!
