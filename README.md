@@ -109,3 +109,10 @@ dangerous inputs
 - **Topic**: Security Logging and Monitoring Failures. This is about keeping a "digital diary" of who does what in an app. If you don't log events, you won't know when an attacker breaks in.
 - **My Role**: I can help projects by ensuring their documentation explains how to check logs and set up alerts for suspicious activity.
 - **Focus**: Celebrating this win while staying 100% focused on my WBJEE preparation!
+
+---
+# security-learning-journal-day-16
+### Day 16: Intro to SSRF (OWASP #10)
+- **Concept**: Server-Side Request Forgery (SSRF) happens when an attacker tricks a server into making a request to a place it shouldn't go (like its own internal files).
+- **The "Human" Version**: It's like tricking a delivery driver into entering the restricted back-office of a building instead of just dropping the package at the front desk.
+- **My Plan**: I've noted this as a high-level topic. I will dive deeper into the technical "how-to" after my competitive exams are over!
