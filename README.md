@@ -123,3 +123,11 @@ dangerous inputs
 - **Status**: Focusing hard on WBJEE revision. 
 - **Reflections**: Learning that "consistency" is the most important skill for an engineer. Whether it's solving Math puzzles or maintaining this journal, showing up every day is what counts.
 - **Mental Health**: Taking small breaks to celebrate my GSSoC selection. It’s a reminder that hard work pays off, even when the journey feels long.
+
+---
+# security-learning-journal-day-18
+### Day 18: The Digital "Security Camera" (Logging & Monitoring)
+- **Concept**: Security Logging (OWASP #9) is about keeping a record of everything that happens in an app. If a "hacker" tries to log in 100 times, the log should catch it.
+- **Why it matters**: Without logs, an attacker could be inside a system for weeks and nobody would know. 
+- **Non-Coder Role**: I can help projects by documenting how users should report suspicious activity and ensuring the "Admin Guides" explain how to check logs.
+- **June Goal**: I plan to check multiple GSSoC projects to see if they have clear "Reporting" instructions! 🛡️
