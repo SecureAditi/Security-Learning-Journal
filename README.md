@@ -116,3 +116,10 @@ dangerous inputs
 - **Concept**: Server-Side Request Forgery (SSRF) happens when an attacker tricks a server into making a request to a place it shouldn't go (like its own internal files).
 - **The "Human" Version**: It's like tricking a delivery driver into entering the restricted back-office of a building instead of just dropping the package at the front desk.
 - **My Plan**: I've noted this as a high-level topic. I will dive deeper into the technical "how-to" after my competitive exams are over!
+
+---
+# security-learning-journal-day-17
+### Day 17: Discipline & The Road Ahead 🚀
+- **Status**: Focusing hard on WBJEE revision. 
+- **Reflections**: Learning that "consistency" is the most important skill for an engineer. Whether it's solving Math puzzles or maintaining this journal, showing up every day is what counts.
+- **Mental Health**: Taking small breaks to celebrate my GSSoC selection. It’s a reminder that hard work pays off, even when the journey feels long.
