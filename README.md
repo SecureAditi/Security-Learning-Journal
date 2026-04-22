@@ -139,3 +139,11 @@ dangerous inputs
 - **Why it matters**: A project can have perfect code, but if a contributor is tricked into sharing their password, the whole project is at risk.
 - **My Role**: As a Security Awareness focused contributor, I want to help projects create "Contributor Safety Guides" to prevent these kinds of human-targeted attacks.
 - **Reflection**: Learning GitHub etiquette is also a form of "Social" skill—knowing how to talk to maintainers professionally is key!
+
+---
+# security-learning-journal-day-20
+### Day 18: The Digital "Security Camera" (Logging & Monitoring)
+- **Concept**: Security Logging (OWASP #9) is about keeping a record of everything that happens in an app. If a "hacker" tries to log in 100 times, the log should catch it.
+- **Why it matters**: Without logs, an attacker could be inside a system for weeks and nobody would know. 
+- **Non-Coder Role**: I can help projects by documenting how users should report suspicious activity and ensuring the "Admin Guides" explain how to check logs.
+- **June Goal**: I plan to check multiple GSSoC projects to see if they have clear "Reporting" instructions! 🛡️
