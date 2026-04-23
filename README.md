@@ -142,8 +142,16 @@ dangerous inputs
 
 ---
 # security-learning-journal-day-20
-### Day 18: The Digital "Security Camera" (Logging & Monitoring)
+### Day 20: The Digital "Security Camera" (Logging & Monitoring)
 - **Concept**: Security Logging (OWASP #9) is about keeping a record of everything that happens in an app. If a "hacker" tries to log in 100 times, the log should catch it.
 - **Why it matters**: Without logs, an attacker could be inside a system for weeks and nobody would know. 
 - **Non-Coder Role**: I can help projects by documenting how users should report suspicious activity and ensuring the "Admin Guides" explain how to check logs.
 - **June Goal**: I plan to check multiple GSSoC projects to see if they have clear "Reporting" instructions! 🛡️
+
+---
+# security-learning-journal-day-21
+### Day 21: Security and Human Logic 🛡️
+- *Topic*: Social Engineering & Awareness.
+- *The Concept*: Realized that the "weakest link" in any security system is often human error, not code. Attackers use trickery (Phishing, Pretexting) to get what they want.
+- *My Mission*: As a GSSoC contributor, I want to focus on making "Human-Centric" documentation that helps people stay alert.
+- *Study Update*: Trigonometry is in full swing! Linking mathematical patterns to security patterns. Flow state: Active. 🧠
