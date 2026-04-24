@@ -142,16 +142,24 @@ dangerous inputs
 
 ---
 # security-learning-journal-day-20
-### Day 20: The Digital "Security Camera" (Logging & Monitoring)
-- **Concept**: Security Logging (OWASP #9) is about keeping a record of everything that happens in an app. If a "hacker" tries to log in 100 times, the log should catch it.
-- **Why it matters**: Without logs, an attacker could be inside a system for weeks and nobody would know. 
-- **Non-Coder Role**: I can help projects by documenting how users should report suspicious activity and ensuring the "Admin Guides" explain how to check logs.
-- **June Goal**: I plan to check multiple GSSoC projects to see if they have clear "Reporting" instructions! 🛡️
+### Day 20: Security and Human Logic 🛡️
+- **Topic**: Social Engineering & Awareness.
+- **The Concept**: Realized that the "weakest link" in any security system is often human error, not code. Attackers use trickery (Phishing, Pretexting) to get what they want.
+- **My Mission**: As a GSSoC contributor, I want to focus on making "Human-Centric" documentation that helps people stay alert.
+- **Study Update**: Trigonometry is in full swing! Linking mathematical patterns to security patterns. Flow state: Active. 🧠
 
 ---
 # security-learning-journal-day-21
-### Day 21: Security and Human Logic 🛡️
-- *Topic*: Social Engineering & Awareness.
-- *The Concept*: Realized that the "weakest link" in any security system is often human error, not code. Attackers use trickery (Phishing, Pretexting) to get what they want.
-- *My Mission*: As a GSSoC contributor, I want to focus on making "Human-Centric" documentation that helps people stay alert.
-- *Study Update*: Trigonometry is in full swing! Linking mathematical patterns to security patterns. Flow state: Active. 🧠
+### Day 21: Personal Security & Boundary Setting 🛡️
+- **Learning**: Realized that "Social Engineering" isn't just a tech concept—it's a real-world risk. Predators use psychological manipulation to bypass our personal "firewalls."
+- **Key Takeaway**: Trusting your gut is the most important security tool. If someone is faking their behavior or pushing your boundaries (like staying up too late), it's a sign of a "security breach."
+- **Action**: Successfully identified a risk, sanitized my data (deleted texts), and blocked the threat. 
+- **Focus**: Reclaiming my time and my sleep for my WBJEE goals. My peace of mind is my priority
+
+---
+# security-learning-journal-day-22
+### Day 22: The Power of Information & Mentorship 🌐
+- **Observation**: Realized that many students, even in 2nd year of college, aren't aware of global opportunities like Google STEP or GSoC. 
+- **My Advantage**: Starting early (pre-college) gives me the "Time Advantage." I’m building my roadmap now so I can be ready when the doors open.
+- **Goal**: I want to not only contribute code/docs but also help bridge this "Information Gap" for others in my community.
+- **Status**: Balancing WBJEE Trigonometry and GSSoC networking. One step at a time!
