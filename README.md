@@ -165,7 +165,7 @@ dangerous inputs
 - **Status**: Balancing WBJEE Trigonometry and GSSoC networking. One step at a time!
 
 ---
-
+# security-learning-journal-day-23
 ### Day 22: The Impact of Early Awareness 🚀
 - **Reflection**: Had an amazing conversation with a 2nd-year B.Tech student today. I realized that my "Pre-College" start is a huge advantage. 
 - **Observation**: Many students only start exploring GitHub and global internships in their 2nd year. By starting now, I am building a foundation that puts me years ahead.
