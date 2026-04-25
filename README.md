@@ -163,3 +163,11 @@ dangerous inputs
 - **My Advantage**: Starting early (pre-college) gives me the "Time Advantage." I’m building my roadmap now so I can be ready when the doors open.
 - **Goal**: I want to not only contribute code/docs but also help bridge this "Information Gap" for others in my community.
 - **Status**: Balancing WBJEE Trigonometry and GSSoC networking. One step at a time!
+
+---
+
+### Day 22: The Impact of Early Awareness 🚀
+- **Reflection**: Had an amazing conversation with a 2nd-year B.Tech student today. I realized that my "Pre-College" start is a huge advantage. 
+- **Observation**: Many students only start exploring GitHub and global internships in their 2nd year. By starting now, I am building a foundation that puts me years ahead.
+- **My Mission**: Stay curious, stay humble, and keep sharing knowledge. Helping others grow is a key part of the Open Source spirit!
+- **Status**: Feeling motivated! Back to the WBJEE Math puzzles with fresh energy. 🧠✨
