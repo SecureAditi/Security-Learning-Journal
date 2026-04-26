@@ -175,7 +175,7 @@ dangerous inputs
 ---
 # security-learning-journal-day-24
 ### Day 24: The Power of the "Early Start" 📈
-- *Observation*: Noticed that most GSSoC participants are already in 2nd or 3rd year of B.Tech. Being a pre-college contributor feels unique and a bit like being a "pioneer."
-- *Niche Focus*: While others are focusing on college credits, I'm focusing on building a "Security Mindset" from scratch. 
-- *Growth*: Realized that being the youngest in the room isn't a weakness; it's a chance to learn from everyone while having the most time to grow.
-- *Status*: Back to Trigonometry puzzles. Building the mathematical logic I'll need for C++ in a few months! 🛡️
+- **Observation**: Noticed that most GSSoC participants are already in 2nd or 3rd year of B.Tech. Being a pre-college contributor feels unique and a bit like being a "pioneer."
+- **Niche Focus**: While others are focusing on college credits, I'm focusing on building a "Security Mindset" from scratch. 
+- **Growth**: Realized that being the youngest in the room isn't a weakness; it's a chance to learn from everyone while having the most time to grow.
+- **Status**: Back to Trigonometry puzzles. Building the mathematical logic I'll need for C++ in a few months! 🛡️
