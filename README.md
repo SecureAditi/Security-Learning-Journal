@@ -179,3 +179,11 @@ dangerous inputs
 - **Niche Focus**: While others are focusing on college credits, I'm focusing on building a "Security Mindset" from scratch. 
 - **Growth**: Realized that being the youngest in the room isn't a weakness; it's a chance to learn from everyone while having the most time to grow.
 - **Status**: Back to Trigonometry puzzles. Building the mathematical logic I'll need for C++ in a few months! 🛡️
+
+---
+# security-learning-journal-day-25
+### Day 25: Access Control & The "Early Bird" Path 🛡️
+- **The Concept**: Broken Access Control (OWASP #1) is when a system fails to restrict what a user can do. It allows users to "bypass" permissions to reach sensitive data.
+- **My Reflection**: I’m realizing that in my career, I’ve "bypassed" the typical timeline. While most start in 2nd or 3rd year, I’ve accessed the Open Source world pre-college. 
+- **The Goal**: As a non-coder, I want to audit project documentation to ensure "Permission Levels" are clearly explained so users don't accidentally cause security leaks.
+- **Status**: Trigonometry is getting tougher, but so is my resolve! 🧠✨
