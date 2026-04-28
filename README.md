@@ -170,7 +170,7 @@ dangerous inputs
 - **Reflection**: Had an amazing conversation with a 2nd-year B.Tech student today. I realized that my "Pre-College" start is a huge advantage. 
 - **Observation**: Many students only start exploring GitHub and global internships in their 2nd year. By starting now, I am building a foundation that puts me years ahead.
 - **My Mission**: Stay curious, stay humble, and keep sharing knowledge. Helping others grow is a key part of the Open Source spirit!
-- **Status**: Feeling motivated! Back to the WBJEE Math puzzles with fresh energy. 🧠✨
+- **Status**: Feeling motivated! Back to the Math puzzles with fresh energy. 🧠✨
 
 ---
 # security-learning-journal-day-24
@@ -187,3 +187,10 @@ dangerous inputs
 - **My Reflection**: I’m realizing that in my career, I’ve "bypassed" the typical timeline. While most start in 2nd or 3rd year, I’ve accessed the Open Source world pre-college. 
 - **The Goal**: As a non-coder, I want to audit project documentation to ensure "Permission Levels" are clearly explained so users don't accidentally cause security leaks.
 - **Status**: Trigonometry is getting tougher, but so is my resolve! 🧠✨
+
+---
+# security-learning-journal-day-26
+### Day 25: Building Career Momentum 🚀
+- **Observation**: Realized that 70% of students start their technical journey in their 3rd year out of necessity. By starting now, I'm building "Inertia"—it's easier to keep moving than to start from zero later.
+- **Physics Connection**: Just like in mechanics, the work I'm doing now (Pre-College) is my "Potential Energy" that will turn into "Kinetic Energy" (internships/GSoC) in the future.
+- **Status**: Focusing on Physics revision for WBJEE. Keeping my GitHub streak alive with just 5 mins of reflection daily. 🛡️
