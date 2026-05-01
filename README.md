@@ -210,7 +210,11 @@ dangerous inputs
 - **Status**: Tackling Trigonometric transformations today.
 - **Mindset**: Even when I feel alone in my room, I am not standing still. Every problem solved is a "commit" to my future self. 🛡️✨
 
-
-
-
+---
+# security-learning-journal-day-29
+### Day 29: The Power of Resilience 🛡️
+- **Reflection**: Some days are for solving 100 problems, and some days are for just holding the line. Resilience in Security is about a system staying up during a "DDoS" attack; resilience in life is about showing up even when you feel lonely.
+- **Security Concept**: High Availability (HA). Just like servers have backups to stay online, I am building my "backup" of knowledge now so I never feel overwhelmed in college.
+- **Status**: Trigonometry identities are starting to click. Seeing patterns where I used to see chaos.
+- **Mindset**: One step at a time. The Top 10 goal for June is my "North Star." 🌟
 
