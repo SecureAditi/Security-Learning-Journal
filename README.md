@@ -225,3 +225,11 @@ dangerous inputs
 - **Reflection**: I’ve gone from being a "beginner with a dream" to a "Selected GSSoC Contributor" in just 30 days. 
 - **Tech Insight**: Documentation is the soul of Open Source. By writing this journal, I am practicing the most important skill for June: making complex things simple to understand.
 - **Goal**: Closing the month with strong revision. The "SecureAditi" foundation is now solid. 🛡️
+
+---
+# security-learning-journal-day-31
+### Day 31: Filtering the Noise 🛡️
+- *Reflection*: Today I learned that "Security" isn't just about code—it's about protecting your mindset. Critics will call your goals "daydreams" because they haven't seen your blueprint.
+- *Security Concept*: The Firewall. I am building a mental firewall to filter out negativity and only let in constructive feedback.
+- *Status*: Using the "bad" days as fuel for my "Math Flow." If they think I'm daydreaming, I'll just have to prove them wrong with my results.
+- *Mindset*: My pace, my journey, my wins. 🚀
