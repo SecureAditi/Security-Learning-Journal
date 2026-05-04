@@ -108,7 +108,7 @@ dangerous inputs
 - **BIG NEWS**: I officially got accepted into **GSSoC 2026** as a Contributor! 🚀 This proves that even as a non-coder, there is a place for me in the Open Source community.
 - **Topic**: Security Logging and Monitoring Failures. This is about keeping a "digital diary" of who does what in an app. If you don't log events, you won't know when an attacker breaks in.
 - **My Role**: I can help projects by ensuring their documentation explains how to check logs and set up alerts for suspicious activity.
-- **Focus**: Celebrating this win while staying 100% focused on my WBJEE preparation!
+- **Focus**: Celebrating this win while staying 100% focused on my preparation!
 
 ---
 # security-learning-journal-day-16
