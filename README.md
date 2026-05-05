@@ -241,3 +241,11 @@ dangerous inputs
 - **Security Concept**: Defense in Depth. In security, we use multiple layers of protection. In my career, I am using multiple layers of achievements (internships, research, open source) to ensure my success.
 - **Status**: Trigonometry is the current hurdle. If I can solve these triangles, I can solve the logic of encryption later. 
 - **Mindset**: My path is clear. The noise from others doesn't matter when you have a blueprint. 🛡️
+
+---
+# security-learning-journal-day-33
+### Day 33: The Alphabet of Secrecy 🔑
+- **Reflection**: Sometimes I wonder if my plans are too big for an 18-year-old. But then I realize: big doors hang on small hinges. My "small" hinges are these Math problems and this journal.
+- **Security Concept**: Cryptography. I learned today that the Trigonometry I'm studying is the foundation of how data is scrambled and protected. 
+- **Status**: Finished a tough set of Trig identities. My brain is getting faster at recognizing patterns.
+- **Decision**: I choose to trust my roadmap. If the logic is sound, the results will follow. 🛡️
