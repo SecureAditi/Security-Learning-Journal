@@ -257,3 +257,12 @@ dangerous inputs
 - **Security Concept**: Zero Trust Architecture. In security, we don't assume anything is safe; we verify everything. I am verifying my future by building my skills daily rather than just assuming "it will all work out."
 - **Status**: Continuing the Trigonometry grind. It’s the "mental gym" for my 5-year plan.
 - **Mindset**: It's okay to be the only one with a map. It just means I'll be the first one to arrive. 🛡️
+
+---
+# security-learning-journal-day-35
+### Day 35: From Architect to Builder 🛡️
+- **Status**: ASSIGNED to my 'Web Security Headers' proposal! 🚀
+- **Reflection**: It feels different when the work is your own idea. I’m not just following instructions; I’m setting the security standards for the project. 
+- **Security Concept**: Security Baselines. I am establishing the 'minimum safety requirements' for the frontend of this application.
+- **Progress**: Starting the audit phase. I’m looking at the site’s 'HTTP response headers' like a digital doctor checking a pulse. 🩺
+- **Mindset**: One small PR for a repo, one giant leap for my portfolio.
