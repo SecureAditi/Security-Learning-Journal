@@ -274,3 +274,11 @@ dangerous inputs
 - **Reflection**: I’ve done the 'Work.' Now I’m learning about the 'Logistics.' In engineering, sometimes the paperwork takes longer than the patch.
 - **Security Concept**: Eventual Consistency. In distributed systems, data might not be the same everywhere instantly, but it will eventually be consistent. My points are 'eventually consistent' with my work.
 - **Mindset**: I am not chasing labels; I am chasing mastery. The points will follow. 🚀
+
+---
+# security-learning-journal-day-37
+### Day 37: The Stealth Contributor 🛡️
+- **Reflection**: I am building my future in silence. I don't need to know 'everything' about code yet; I just need to know how to solve the next problem.
+- **Security Concept**: Zero-Knowledge Proof. I'm proving my value through my merged PRs without having to 'declare' my status to the world.
+- **Status**: Currently preparing for my exams and building basics to not have concept gaps 
+- **Mindset**: My work speaks for itself. I don't need to brag; my GitHub profile is my evidence. 🚀
